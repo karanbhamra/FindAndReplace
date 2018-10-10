@@ -1,0 +1,9 @@
+2018-10-09 18:50:43.643 [main] INFO  com.karanbhamra.Main - MatchCase setting disabled.
+2018-10-09 18:50:43.646 [main] INFO  com.karanbhamra.Main - MatchWord setting disabled.
+2018-10-09 18:51:11.322 [AWT-EventQueue-0] INFO  com.karanbhamra.Main - Searching complete for Sherlock
+2018-10-09 18:51:11.324 [AWT-EventQueue-0] INFO  com.karanbhamra.Main - Found 3 files.
+2018-10-09 18:51:25.733 [AWT-EventQueue-0] INFO  com.karanbhamra.Main - Searching complete for Sherlock
+2018-10-09 18:51:25.733 [AWT-EventQueue-0] INFO  com.karanbhamra.Main - Found 3 files.
+2018-10-09 18:51:39.745 [AWT-EventQueue-0] INFO  com.karanbhamra.Main - Replaced all occurrences of Sherlock with Durlock.
+2018-10-09 18:51:59.704 [AWT-EventQueue-0] INFO  com.karanbhamra.Main - Searching complete for durlock
+2018-10-09 18:51:59.704 [AWT-EventQueue-0] INFO  com.karanbhamra.Main - Found 3 files.
